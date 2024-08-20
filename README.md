@@ -1,7 +1,7 @@
 Here's the entire `README.md` in a single code block:
 
 ```markdown
-![GITPOOL Logo](./assets/GITPOOL.png) <!-- Adjust the path if needed -->
+![GITPOOL Logo](./assets/GITPOOL.jpg) <!-- Adjust the path if needed -->
 
 # GITPOOL
 
