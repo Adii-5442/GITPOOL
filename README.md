@@ -1,6 +1,8 @@
 <p align="center">
   <img src="./assets/GITPOOL.jpg" alt="GITPOOL Logo" width="200" />
 </p>
+
+
 # GITPOOL
 
 GITPOOL is a mobile application that helps developers track their GitHub contributions, collaborate with peers, and stay connected with their projects on the go.
