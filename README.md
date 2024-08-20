@@ -1,6 +1,3 @@
-Here's the entire `README.md` in a single code block:
-
-```markdown
 ![GITPOOL Logo](./assets/GITPOOL.jpg) <!-- Adjust the path if needed -->
 
 # GITPOOL
@@ -25,9 +22,6 @@ GITPOOL is a mobile application that helps developers track their GitHub contrib
 ### Steps
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/GITPOOL.git
-   ```
 
 2. Navigate to the project directory:
    ```bash
